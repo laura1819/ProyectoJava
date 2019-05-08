@@ -1,0 +1,20 @@
+[
+  {
+    "matricula": "1111BBB",
+    "nombre": "1111BBB",
+    "grupo": "A",
+    "plazas": 1
+  },
+  {
+    "matricula": "2222CCC",
+    "nombre": "2222CCC",
+    "grupo": "C",
+    "plazas": 2
+  },
+  {
+    "matricula": "3333DDD",
+    "nombre": "3333DDD",
+    "grupo": "C",
+    "plazas": 4
+  }
+]

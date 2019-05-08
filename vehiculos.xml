@@ -1,0 +1,20 @@
+<list>
+  <appagenciaalquiler.modelo.Vehiculo>
+    <matricula>1111BBB</matricula>
+    <nombre>1111BBB</nombre>
+    <grupo>A</grupo>
+    <plazas>1</plazas>
+  </appagenciaalquiler.modelo.Vehiculo>
+  <appagenciaalquiler.modelo.Vehiculo>
+    <matricula>2222CCC</matricula>
+    <nombre>2222CCC</nombre>
+    <grupo>C</grupo>
+    <plazas>2</plazas>
+  </appagenciaalquiler.modelo.Vehiculo>
+  <appagenciaalquiler.modelo.Vehiculo>
+    <matricula>3333DDD</matricula>
+    <nombre>3333DDD</nombre>
+    <grupo>C</grupo>
+    <plazas>4</plazas>
+  </appagenciaalquiler.modelo.Vehiculo>
+</list>
